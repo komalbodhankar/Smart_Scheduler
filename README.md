@@ -30,10 +30,12 @@
 
 ## Not-Processed queue cases
 _Case 1:_ When start time is equal to finish time of a given job
+                                                                                    
 _Case 2:_ If finish time is greater than start time and earliest finish time of all machines is greater than start time
 
 ## Optimal queue cases
 _Case 1:_ Start time of a given job should be less than the finish time of the same job
+                                                                                    
 _Case 2:_ Earliest finish time of the machine should be less than or equal to the start time of current job 
 
 ## Output - In tuples
