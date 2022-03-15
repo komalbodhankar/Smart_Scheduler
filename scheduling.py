@@ -1,18 +1,7 @@
 
-# CS 430 Programming Project
-
-# Team Members:
-
-# Member:1
 # Name: Komal Bodhankar
-# CWID: A20492705
 
-# Member:2
-# Name: Esha Choudhary
-# CWID: A20492811
-
-
-# importing heapq library to use heap data structure for sorting jobs and machine w.r.t finish time
+# Importing heapq library to use heap data structure for sorting jobs and machine w.r.t finish time
 
 import heapq
 
