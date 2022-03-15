@@ -91,5 +91,6 @@ Run this file using below command:
 
     >$ python scheduling.py
 
+## Input files used to test this code have been added in input folder
 
 > _Note: This project uses python3.7_
